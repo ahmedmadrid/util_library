@@ -1,0 +1,2 @@
+D:\Courses\CS_FOundations\C++\2- oop applications\a01_util_library\x64\Debug\a01_util_library.exe
+D:\Courses\CS_FOundations\C++\2- oop applications\a00_util_library\x64\Debug\a01_util_library.exe

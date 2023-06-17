@@ -1,0 +1,10 @@
+﻿  a01_util_library.cpp
+D:\Courses\CS_FOundations\C++\2- oop applications\a00_util_library\clsString.h(138,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\2- oop applications\a00_util_library\clsString.h(142,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\2- oop applications\a00_util_library\clsString.h(155,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\2- oop applications\a00_util_library\clsString.h(236,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\2- oop applications\a00_util_library\clsString.h(264,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\2- oop applications\a00_util_library\clsString.h(308,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\2- oop applications\a00_util_library\clsString.h(427,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\2- oop applications\a00_util_library\clsString.h(488,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  a01_util_library.vcxproj -> D:\Courses\CS_FOundations\C++\2- oop applications\a00_util_library\x64\Debug\a01_util_library.exe
